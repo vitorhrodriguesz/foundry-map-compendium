@@ -1,6 +1,0 @@
-1. Envie module.json, scripts/, README.md e long-campaign-map-library.zip para a raiz do repositório.
-2. NÃO use foundry-map-compendium-repository.zip como download do Foundry; ele possui uma pasta externa.
-3. Manifest URL:
-https://raw.githubusercontent.com/vitorhrodriguesz/foundry-map-compendium/main/module.json
-4. Download URL:
-https://raw.githubusercontent.com/vitorhrodriguesz/foundry-map-compendium/main/long-campaign-map-library.zip
