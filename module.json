@@ -1,0 +1,22 @@
+{
+  "id": "long-campaign-map-library",
+  "title": "Biblioteca de Mapas para Campanhas Longas",
+  "description": "Catálogo de mapas Universal VTT organizado por categoria para Foundry VTT v13. Ao importar uma cena do compendium, o mapa é baixado e convertido para uma cena com grade, paredes, portas e luzes.",
+  "version": "0.2.0",
+  "authors": [
+    {
+      "name": "vitorhrodriguesz"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350",
+    "maximum": "13"
+  },
+  "scripts": [
+    "scripts/map-library.js"
+  ],
+  "url": "https://github.com/vitorhrodriguesz/foundry-map-compendium",
+  "manifest": "https://raw.githubusercontent.com/vitorhrodriguesz/foundry-map-compendium/main/module.json",
+  "download": "https://github.com/vitorhrodriguesz/foundry-map-compendium/archive/refs/heads/main.zip"
+}
