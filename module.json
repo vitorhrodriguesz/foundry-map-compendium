@@ -1,0 +1,31 @@
+{
+  "id": "long-campaign-map-library",
+  "title": "Biblioteca de Mapas para Campanhas Longas",
+  "description": "Catálogo de mapas Universal VTT organizado por categoria. Ao importar uma cena do compendium, o mapa é baixado e convertido para uma cena Foundry com grade, paredes, portas e luzes.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Compendium pessoal / gerado com ChatGPT"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "scripts": [
+    "scripts/map-library.js"
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "dd-import",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/vitorhrodriguesz/foundry-map-compendium",
+  "manifest": "https://raw.githubusercontent.com/vitorhrodriguesz/foundry-map-compendium/main/module.json",
+  "download": "https://raw.githubusercontent.com/vitorhrodriguesz/foundry-map-compendium/main/long-campaign-map-library.zip"
+}
